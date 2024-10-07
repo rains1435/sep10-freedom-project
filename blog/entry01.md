@@ -1,7 +1,9 @@
-# Entry 1: Financing and Money
+# Entry 1: Final Decision (Financing)
 ##### 10/7/24
 
-## What's so interesting about Financing
+## What I had in mind...
+
+Transportation was the first decision I had in mind because it was something that I thought would be easy to do a project on. However, I wasn't passionate about choosing transportation as my final subject idea so I went onto the career list Mr Mueller gave us (thank you for giving us that list Mr. Mueller), and the first thing on the list was accountanting. That's when my newfound passion for financing began. Well, not really, since I already had a passion for financing for almost a year, and it stemmed from me googling lots of "Tips and Tricks to becoming a better spender". Also here are the findings that caught my eye on what I've researched: Article #1: [How to Budget Money in 5 Steps](https://www.nerdwallet.com/article/finance/how-to-budget) This was actually the first article I found an year ago when I was googling "How to budget my money?" and it's not so helpful, considering this article is predominately adult-related budgeting but it is important to know this for the future. Article #2: [
 
 
 [Next](entry02.md)
