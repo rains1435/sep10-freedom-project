@@ -1,5 +1,5 @@
-# Entry 1
-##### X/X/XX
+# Entry 1: Final Decision (Financing)
+##### 10/7/24
 
 Text
 
