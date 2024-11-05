@@ -23,7 +23,7 @@ This skill is connected to the **"How to read"** skill as after I've derive the 
 
 #### Time management
 
-Since I've developed the skill of organization, I also have to organize my time. I try not to cram gaming/ leisure time into school days and it has been improving ever since. When there is a ton of homework, I will manage my time by finding the best times to stop and take breaks **(I got ADHD so I stress excessively)**. Managing my time is really helpful and there isn't much to be said about it.
+Since I've developed the skill of organization, I also have to organize my time. I try not to cram gaming/ leisure time into school days and it has been improving ever since. When there is a ton of homework, I will manage my time by finding the best times to stop and take breaks **(I got ADHD so I stress excessively)**. Moreover my schedule might be disrupted suddenly by emergencies or family dinners so I keep a note where I write changes in what to do after the affair. All in all, time management is a solid skill, 100% important for the future and I'm going to continue to manage my time throughout High School.
 
 ## Next Step
 
