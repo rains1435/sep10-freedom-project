@@ -1,4 +1,4 @@
-# Entry 2: My Findings (Financing)
+# Entry 2: My Findings (Personal Financing)
 ##### 11/4/24
 
 ## I entered the cave and saw...

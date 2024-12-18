@@ -1,4 +1,4 @@
-# Entry 1: Final Decision (Financing)
+# Entry 1: Final Decision (Personal Financing)
 ##### 10/7/24
 
 ## What I had in mind...
