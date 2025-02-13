@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
+        <link href="style.css" rel="stylesheet" type="text/css" />
+        <style>
+            /* CSS */
+
+        </style>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+        <title>Title</title>
+    </head>
+    <body>
+        <script>
+            //click to reveal message
+            $(document).ready(function(){
+                $("h2").mousedown(function(){
+                    alert("YOU'VE ENTERED THE SCARY DUNGEON");
+                });
+
+            //click button to hide p tag
+
+                $("button").click(function(){
+                    $(".hide").hide();
+                });
+
+            //click tag (or p tag in this context) with the .one-click class selector
+
+                $(".one-click").click(function(){
+                    $(this).hide();
+                });
+
+            //double click tag (or p tag in this context) with the .two-clicks class selector
+
+                $(".two-clicks").dblclick(function(){
+                    $(this).hide();
+                });
+
+            //color of even rows on table is lightblue
+
+                $("tr:even").css("background-color", "lightblue");
+
+
+            //color of odd rows on table is pink
+
+                $("tr:odd").css("background-color", "pink");
+            });
+
+
+        </script>
+        <!-- HTML -->
+
+        <h2>CLICK ME</h2>
+
+        <p class="hide">hello, click under to hide me!</p>
+
+        <button>CLICK HERE!!!</button>
+
+        <p class="one-click">I'M A SCARY MONSTER. CLICK IT TO DEFEAT IT!</p>
+
+        <p class="two-clicks">I'M AN EVEN SCARY MONSTER. CLICK IT TWICE TO DEFEAT IT!!</p>
+
+        <table border="1">
+        <tr>
+            <th>cool</th>
+            <th>not cool</th>
+        </tr>
+
+        <tr>
+            <td>cold breeze</td>
+            <td>warm soup</td>
+        </tr>
+
+        <tr>
+            <td>being mature</td>
+            <td>being immature</td>
+        </tr>
+
+        <tr>
+            <td>passing classes</td>
+            <td>failing classes</td>
+        </tr>
+
+        <tr>
+            <td>flying</td>
+            <td>bipedal</td>
+        </tr>
+        </table>
+
+
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- <script src="script.js"></script> -->
+
+
+
+
+
+    </body>
+</html>
