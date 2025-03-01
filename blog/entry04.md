@@ -28,7 +28,7 @@ First, I tinkered with jQuery first which was a tough yet fun experience and a l
 ```
 **RESULT:**
 
-<video controls src="Screen recording 2025-02-28 10.30.05 AM.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/7013d578-4a30-4859-9916-dd9263a88099
 
 ---
 
