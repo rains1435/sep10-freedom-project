@@ -54,7 +54,8 @@ Secondly, I tinkered with AFrame and it was AWESOME + surprisingly easy/ flexibl
 ```
 **RESULT:**
 
-<video controls src="Screen Recording 2025-02-24 at 4.12.55 PM.mp4" title="Title"></video>
+[<video controls src="Screen Recording 2025-02-24 at 4.12.55 PM.mp4" title="Title"></video>](https://github.com/user-attachments/assets/7856902b-165d-46e5-a6e1-2a260e9b70d9
+)
 ---
 Lastly, I tried out CSS Grid, the one I found most helpful yet it was boring to be honest however still tinkered with. I created a table with 5 columns and 2 rows, each with its own ranking to the "How was your day?" (Spacing and color included). Learned from **[w3schools](https://www.w3schools.com/css/css_grid.asp)**
 
