@@ -30,8 +30,26 @@
   **Output:**
   ![alt text](image-holder/forest.png)
 
-### X/X/XX:
-* Text
+### 3/14/25:
+* I learned how to animate an object in A-FRAME!
+  * I used
+    * `animation="property: object3D.position.x` = specify the object being animated
+    * `to: (numerical-value)`= distance object will travel based on position.(x or y).
+    * `dir: (direction-value)` = direction of object's movement
+    * `dur: (numerical-value)` = duration of animation
+    * `loop: (true-false)` = to loop animation
+
+**Code:**
+
+``` html
+<a-scene>
+  <a-box src="textures/wood.jpg" position="0 2 -5" scale="2 2 2" animation="property: object3D.position.x; to: 10; dir: alternate; dur: 1000; loop: true;"><a-box>
+</a-scene>
+```
+
+**Output:** A floating cube that moves 10 units to the right (`object3D.position.x`) and coming back to original position (`alternate`); repeats again for infinite amount of times (`loop`). Total duration of animation is 1 second = `1000` millisecond.
+
+
 
 
 <!--
