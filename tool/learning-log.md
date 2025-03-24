@@ -49,7 +49,7 @@
 
 **Output:** A floating cube that moves 10 units to the right (`object3D.position.x`) and coming back to original position (`alternate`); repeats again for infinite amount of times (`loop`). Total duration of animation is 1 second = `1000` millisecond.
 
-### 3/22/25:
+### 3/23/25:
 * I learned how to add text in A-Frame!
   * This is simple and it works like this:
     * text= `"value: (input-text);"`
