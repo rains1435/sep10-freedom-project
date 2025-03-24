@@ -49,6 +49,31 @@
 
 **Output:** A floating cube that moves 10 units to the right (`object3D.position.x`) and coming back to original position (`alternate`); repeats again for infinite amount of times (`loop`). Total duration of animation is 1 second = `1000` millisecond.
 
+### 3/22/25:
+* I learned how to add text in A-Frame!
+  * This is simple and it works like this:
+    * text= `"value: (input-text);"`
+      * You may also add `color: (given-color);` in the `text= "(in here)"`
+      * A set width -> `width: (numerical-value);`
+      * An alignment -> `align: (set-alignment);`
+
+**Code:**
+``` html
+<!-- NOTE - you can also set a position to it and a scale because it's an <a-entity> -->
+
+<!-- In this example, I put the text above the box by using `align: center` and setting their x and z position the same while the text has a higher y value (to put it above).-->
+<a-scene>
+    <a-box position="-0.9 0.2 -3" scale="2 2 2" color="pink"></a-box>
+    <a-entity text="value: Hello, A-Frame; color: #000000; width: 5; align: center"
+    position="-0.9 2.4 -3"
+    scale="1.5 1.5 1.5">
+    </a-entity>
+</a-scene>
+```
+
+**Output:**
+
+![alt text](image-holder/add-text.png)
 
 
 

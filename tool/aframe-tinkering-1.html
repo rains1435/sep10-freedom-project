@@ -13,6 +13,8 @@
         </style>
 
         <script src="https://aframe.io/releases/1.5.0/aframe.min.js"></script>
+        <script src="https://unpkg.com/aframe-environment-component@1.5.x/dist/aframe-environment-component.min.js"></script>
+
 
         <title>Title</title>
 
@@ -30,8 +32,8 @@
           </a-scene>
         -->
 
+        <!-- First tinkering: cubes around user in different positions, colors, and rotation
         <a-scene>
-        <!--
             <a-box color="blue" rotation="0 30 0" scale="1 1 1" position="0 0 0"></a-box>
 
             <a-box color="yellow" rotation="0 30 30" scale="1.1 1.5 1" position="0 3 0"></a-box>
@@ -43,8 +45,34 @@
             <a-box color="green" rotation="0 70 -25" scale="1.8 1.7 1" position="0 1.5 5"></a-box>
 
             <a-box color="brown" rotation="-10 0 50" scale="2 2 2" position="-5 1.5 0"></a-box>
+        </a-scene>
         -->
-            <a-entity geometry="primitive: box" material="color: blue;"  position="0 1.5 -5"></a-entity>
+
+        <!-- Environment and Textures
+        <a-scene>
+            <a-entity environment= "preset: forest;"></a-entity>
+            <a-box src="textures/wood.jpg" position="0 2 -5" scale="2 2 2"></a-box>
+        </a-scene>
+        -->
+        <!-- NOT IMPORTANT; REQUIRES JS. -->
+        <!-- <a-scene>
+            <a-box material="color: blue;" id="box" cursor-listener position="0 2 -5" scale="2 2 2" animation="property: object3D.position.x; to: 10; dir: alternate; dur: 1000; loop: true;"></a-box>
+            <a-entity camera look-controls wasd-controls>
+                <a-entity cursor="rayOrigin: mouse"
+                position="0 0 -1"
+                geometry="primitive: ring; radiusInner: 0.02; radiusOuter: 0.03"
+                material="color: black; shader: flat">
+                </a-entity>
+            </a-entity>
+        </a-scene> -->
+
+        <!-- Adding text -->
+        <a-scene>
+            <a-box position="-0.9 0.2 -3" scale="2 2 2" color="pink"></a-box>
+            <a-entity text="value: Hello, A-Frame; color: #000000; width: 5; align: center"
+            position="-0.9 2.4 -3"
+            scale="1.5 1.5 1.5">
+            </a-entity>
         </a-scene>
 
 
@@ -52,6 +80,17 @@
         <!-- <script src="script.js"></script> -->
         <script>
             // JS
+            // AFRAME.registerComponent('cursor-listener', {
+            //     init: function () {
+            //         var lastIndex = -1;
+            //         var COLORS = ['red', 'green', 'blue'];
+            //         this.el.addEventListener('click', function (evt) {
+            //         lastIndex = (lastIndex + 1) % COLORS.length;
+            //         this.setAttribute('material', 'color', COLORS[lastIndex]);
+            //         console.log('I was clicked at: ', evt.detail.intersection.point);
+            //         });
+            //     }
+            // });
 
 
         </script>
