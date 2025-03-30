@@ -76,6 +76,35 @@
 ![alt text](image-holder/add-text.png)
 
 
+### 3/30/25
+* I learned how to create a simple custom background (**SCB**) through A-Frame!
+
+  * It uses some of the beginner codes of A-Frame (**3-STEP SCB**)
+
+    * `a-sky` + `color="..."` and you'll be set for the first step of your SCB!
+
+    * `a-plane` + `rotation= "-90 0 0"` <-- (**Note: this rotation configuration is default for ground**) + `color="..."` + `width="..."` + `height="..."` (**NOT IN "px", just numbers with no unit**) = second step completed!
+
+    * `a-light` (**Create two separate ones; The order doesn't matter**)
+
+      * First `a-light`, give it a `type= "ambient"` + `color="..."
+
+      * Second `a-light`, give it a `type= "point"` + `intensity= "(numerical; no unit)"` + `position="x y z"` <-- (**in numerical; no unit**) = you're DONE!!!
+
+**Code:**
+
+``` html
+<a-scene>
+  <a-box color= "green" position= "0 2 -10" scale= "3 3 3"></a-box>
+  <a-sky color= "red"></a-sky>
+  <a-plane rotation= "-90 0 0" color= "blue" width= "100" height= "100"></a-plane>
+  <a-light type= "ambient" color= "#ffffff"></a-light>
+  <a-light type= "point" intensity= "2" position= "0 10
+    -6"></a-light>
+</a-scene>
+```
+**Output:**
+![alt text](image-holder/scb.png)
 
 <!--
 * Links you used today (websites, videos, etc)

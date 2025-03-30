@@ -67,30 +67,35 @@
         </a-scene> -->
 
         <!-- Adding text -->
-        <a-scene>
+        <!-- <a-scene>
             <a-box position="-0.9 0.2 -3" scale="2 2 2" color="pink"></a-box>
             <a-entity text="value: Hello, A-Frame; color: #000000; width: 5; align: center"
             position="-0.9 2.4 -3"
             scale="1.5 1.5 1.5">
             </a-entity>
-        </a-scene>
+        </a-scene> -->
+
+        <!-- Custom Background -->
+         <a-scene>
+            <a-box color= "green" position= "0 2 -10" scale= "3 3 3"></a-box>
+            <!-- contrasting color of green box for the sky -->
+            <a-sky color= "red"></a-sky>
+            <a-plane rotation= "-90 0 0" color= "blue" width= "100" height= "100"></a-plane>
+            <a-light type= "ambient" color= "#ffffff"></a-light>
+            <a-light type= "point" intensity= "2" position= "0 10
+             -6"></a-light>
+         </a-scene>
+
+         <!-- Next week's idea LL: use textures (i.e textures for sky, ground, and entity)
+          <a-scene>
+            <a-plane src= "textures/wood.jpg" rotation= "-90 0 0" width= "10" height= "10" repeat= "10 10"></a-plane>
+          <a-scene>
+         -->
 
 
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
         <!-- <script src="script.js"></script> -->
         <script>
-            // JS
-            // AFRAME.registerComponent('cursor-listener', {
-            //     init: function () {
-            //         var lastIndex = -1;
-            //         var COLORS = ['red', 'green', 'blue'];
-            //         this.el.addEventListener('click', function (evt) {
-            //         lastIndex = (lastIndex + 1) % COLORS.length;
-            //         this.setAttribute('material', 'color', COLORS[lastIndex]);
-            //         console.log('I was clicked at: ', evt.detail.intersection.point);
-            //         });
-            //     }
-            // });
 
 
         </script>
