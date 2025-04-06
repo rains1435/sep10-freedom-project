@@ -103,8 +103,40 @@
     -6"></a-light>
 </a-scene>
 ```
+
 **Output:**
 ![alt text](image-holder/scb.png)
+
+### 4/5/25
+* I learned how to set textures on entities and it's simple!
+
+  * Personally, I link the texture without puttin the texture file into an asset, but I'm going to show both ways.
+
+    **Codes:**
+
+    * **Without `<a-assets>`:** quick but on preview, the texture might load in with delay; looks white for a second.
+
+    ``` html
+    <a-scene>
+      <a-box src="textures/wood.jpg" position="4 2 -8" scale="2 2 2"></a-box>
+      <a-sphere src="textures/blue-wood.jpg" position="-4 2 -8" scale="2 2 2"></a-sphere>
+    </a-scene>
+    ```
+
+    * **With `<a-assets>`:** extra code to write but it's already loaded before you open preview; no loading delay.
+
+    ```html
+    <a-scene>
+      <a-assets>
+          <img id="woodTexture" src="textures/wood.jpg">
+          <img id="bluewoodTexture" src="textures/blue-wood.jpg">
+      </a-assets>
+      <a-box src="#woodTexture" position="4 2 -8" scale="2 2 2"></a-box>
+      <a-sphere src="#bluewoodTexture" position="-4 2 -8" scale="2 2 2"></a-sphere>
+    </a-scene>
+    ```
+    **Output:**
+![alt text](image-holder/texture-entities.png)
 
 <!--
 * Links you used today (websites, videos, etc)
