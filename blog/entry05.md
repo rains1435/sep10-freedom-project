@@ -3,7 +3,7 @@
 
 ## I made up my mind...
 
-Sadly, JQuery was not chosen to be my forever until the very end; A-Frame was and is my final choice. Starting on the 4th of March, 2025, I began to tinker with other features A-Frame offered because I've already learned the basics of A-Frame: `entity`, their `position`, `rotation`, `color`, and `scale` (**Shown in [Entry 4](entry04.md)**). Anyways, let's begin...
+Sadly, [JQuery](https://jquery.com/) was not chosen to be my forever until the very end; [A-Frame](https://aframe.io/) was and is my final choice. Starting on the 4th of March, 2025, I began to tinker with other features A-Frame offered because I've already learned the basics of A-Frame: `entity`, their `position`, `rotation`, `color`, and `scale` (**Shown in [Entry 4](entry04.md)**). Anyways, let's begin...
 
 **Here's a TL;DR list of what I've learned**
 
@@ -144,8 +144,25 @@ This is a no brainer; this is most important as it is basically combining everyt
 
 https://github.com/user-attachments/assets/1f5b045f-8fb3-43e6-a37e-f1c51b8f2290
 
+## Engineering Design Process (EDP)
 
+Objectively, I am still in STEP 3.5; same as said in [Entry 4](entry04.md): Not planning the MOST promising solution or brainstorming possible solutions as I've completed that long ago. Personally, I am at basically at Step 4 for EDP because behind the scenes, A-Frame has inspired me to think of a way to display my hardware **DroidNosMoney**. I've been thinking about it for weeks to be honest and *my current plan is to create a mini simple simulation of what my hardware does: explaining the importance of personal financing for teenagers and long term impacts*. That's all for now.
 
+## Skills
+It's almost been 2 months... Let's get this over with (**It's currently 12 in the morning**)
+
+### Creativity
+I feel like it's a very niche choice because why would I be choosing this when I am already somewhat creative? Well I've "improved" in a way (**I don't know how someone can improve creativity**). Earlier, when I was sharing about how I am personally at the 4th step of EDP? A-Frame helped me grow more creative and not the cliche "creative", rather I had more of a clear choice that I felt would make most sense and be presentable to the audience. I guess it would still be called creativity but anyways, A-Frame is just so interesting and what I mean is the close resemblance to a game and if you know me, I love games. I'm guessing that this is why my brain worked overtime to make me more "creative" because A-Frame is looks like a game (**I'm not only saying this for the words, I like A-Frame for some reason; A little too much**).
+
+### Consideration
+This would actually make sense if you were reading about what I wrote earlier (**Hint:** something to do with teenage personal financing). Consideration was created from creativity which initially stemmed from **A-FRAME**. Essentially, A-Frame helped me create a plan in my mind about teenage personal finance (**CREATIVITY**) and if I consider the financial situation of teenagers, that's **CONSIDERATION!!!** On a real note, I actually care about the teenagers' who struggle with managing their money or anybody who struggles with it because I know how it feels to spend $100 on a headphone that broke in 3 days (**Apparently, it was used already but the seller cleaned it to make it look new. I'm so dumb for that**). So besides consideration being created from creativity, I have true empathy for those who are in a financial unstable situation.
+
+### Communication
+My improvement in communication has to be addressed. Remember how I was partnered with Winnie C. (**Shown in [Entry 4](entry04.md)**). Communication was minimal but enough, however, when there was the SHABR project a few week ago, that was a different story. Me and my partner, Tina X., interacted and communicated much more and much more effectively. We were discussing what font would fit what during the day of Beyond MVP features (**basically the last day to work on the project**). She told me if the font fit and I offered her some of the other choices I had, and so at the end of the day, there were a lot of back and forth. To be honest, me and Tina are amazing at communicating as partners and that's why we finished our project on time and polished it to the best of our ability.
+
+## Next Step
+
+There is no **"Next Step"** yet. What can be a "Next Step" can be thinking about other ideas to implement and showcase in A-Frame in the context of personal financing. *Maybe a robot that moves and interacts with the user or maybe a video with audio, showcasing me doing some type of demostration with my money.* All those are on my roster of ideas and **I am excited to implement these ideas into A-Frame!**
 
 [Previous](entry04.md) | [Next](entry06.md)
 
