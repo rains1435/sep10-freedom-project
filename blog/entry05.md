@@ -19,8 +19,9 @@ MUST READ->(Don't worry; I will be doing a full breakdown after this. Also I am 
 Let's start at 4 to 1 (**It'll make more sense; trust me**)
 
 ---
+**NOTE:** I LEARNED EVERYTHING ON [A-Frame DOCS](https://aframe.io/docs/1.7.0/introduction/); Every header will have a link to where I learned that specific A-Frame Code, such as the title literally under this message.
 
-### 4. Creating an Asset
+### 4. [Creating an Asset](https://aframe.io/docs/1.7.0/core/asset-management-system.html)
 Right after creating an `<a-scene>`, create an `<a-asset>` inside the scene.
 ``` html
 <a-scene>
@@ -51,7 +52,7 @@ Right after creating an `<a-scene>`, create an `<a-asset>` inside the scene.
 </a-scene>
 ```
 ---
-### 3. Adding Text
+### 3. [Adding Text](https://aframe.io/docs/1.7.0/guides/building-a-basic-scene.html#adding-text)
 Having text in an A-Frame presentation is extremely important so here's a breakdown:
 * The main focus, **the text** `text= "value: (input-text);"`
 
@@ -78,7 +79,7 @@ Having text in an A-Frame presentation is extremely important so here's a breakd
 ![alt text](../tool/image-holder/add-text.png)
 
 ---
-### 2. Animating an Entity
+### 2. [Animating an Entity](https://aframe.io/docs/1.7.0/guides/building-a-basic-scene.html#adding-animation)
 Imagine random shapes moving in an A-Frame presentation. Wouldn't that be cool or dynamical? That's why animation is #2.
 
 **Breakdown:**
@@ -101,7 +102,7 @@ Imagine random shapes moving in an A-Frame presentation. Wouldn't that be cool o
 https://github.com/user-attachments/assets/e2a6bd95-7846-4a49-8e67-36c986056e5a
 
 ---
-### 1. Creating a Custom Background
+### 1. [Creating a Custom Background](https://aframe.io/docs/1.7.0/guides/building-a-basic-scene.html#creating-a-custom-environment-optional)
 This is a no brainer; this is most important as it is basically combining everything we've learned onto an A-Frame presentation but with a little extra steps.
 
 **Breakdown:**
