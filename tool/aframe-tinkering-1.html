@@ -101,14 +101,23 @@
             <a-sphere src="#bluewoodTexture" position="-4 2 -8" scale="2 2 2"></a-sphere>
          </a-scene> -->
 
-
-         <!-- FOR LATER LL: Advanced Background: textures for sky, ground, and entity
         <a-scene>
-            <a-plane src= "textures/wood.jpg" rotation= "-90 0 0" width= "10" height= "10" repeat= "10 10"></a-plane>
+            <a-assets>
+                <img id="grassTexture" src="textures/grass.jpg">
+                <img id="logTexture" src="textures/tree-log.jpg">
+                <img id="galaxyTexture" src="textures/galaxy.jpg">
+                <img id="autumnleavesTexture" src="textures/tree-leaves-fall.jpg">
+                <img id="ufoTexture" src="textures/ufo.jpg">
+            </a-assets>
+            <a-light type= "ambient" color= "#0000ff"></a-light>
+            <a-light type= "point" position= "0 0 0" intensity= "1" ></a-light>
+            <a-sky src= "#galaxyTexture"></a-sky>
+            <a-plane src= "#grassTexture" rotation= "-90 0 0" width= "100" height= "100" repeat="10 10"></a-plane>
+            <a-cylinder src= "#logTexture" width= "3" height= "10" position= "0 2 -8"></a-cylinder>
+            <a-sphere src= "#autumnleavesTexture" scale= "3 3 3" position= "0 7 -8"></a-sphere>
+            <a-sphere src= "#ufoTexture" position="-400 200 -300" scale="25 2 25" animation="property: object3D.position.x; to: 400; dir: alternate; dur: 5000; loop: true;"></a-sphere>
+            <a-entity text="value: LOOK, THERE'S A UFO IN THE SKY!!!; color: #FFFFFF; width: 5; align: center" position="0 2 -5" scale="1.5 1.5 1.5"></a-entity>
         <a-scene>
-        -->
-
-
         <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
         <!-- <script src="script.js"></script> -->
         <script>
