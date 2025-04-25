@@ -22,6 +22,11 @@
 * Sizing
 * Spacing
 
+## Freedom Project Tool
+#### A-Frame and Expectations
+* Create an `html` file in main repo for A-Frame scene
+* Since it's an display of the DroidNosMoney model, keep the background simple; **TO PUT EMPHASIS ON THE MODEL AS ADDING A TEXTURED BACKGROUND MAY BE DISTRACTING**
+
 ## Colors
 * `#165226`
 * `#ffffff`
@@ -37,9 +42,9 @@
 
 #### MVP
 
-* 4/25 --> Create Navbar with links, logo + name, and dropdown that reveals more links. Create sections with certain ids so linking is possible for nav links **(FOR BOTH PAGES)**
+* 4/25 --> Create Navbar with links, logo + name, and dropdown that reveals more links. Create sections with certain ids so linking is possible for nav links. Add buttons for navigating pages 1 and 2. Create footers for copyright; keep it simple, for now. **(FOR BOTH PAGES)**
 
-* 4/28 --> Design each sections **(USING LAYOUTS)**; ignore minor issues. If there's time, add in all the FP content. Create A-Frame scene to display model; **keep it simple, for now**.
+* 4/28 --> Design each section **(USING LAYOUTS)**; ignore minor issues. If there's time, add in all the FP content. Create A-Frame scene to display model; **keep it simple, for now**.
 
 * 4/29 --> Add color to each section (white and gray pattern). For home section, use color #1, and for footers, use color #4 **(Colors)**. Navbar should use color #5; **keep it simple, for now**.
 
@@ -47,7 +52,9 @@
 
 #### Beyond MVP
 
-* Task
+* Add scrollspy component on Navbar.
+* Improve spacing, part alignments **(flex)**, and add fonts. For example, the Navbar needs spacing between logo + name and the links **(shown in the wireframe for desktop)**
+* Expand the A-Frame display; add something extra that would make the final presentation much more better for the audience. **Implement some JavaScript?**
 
 
 
