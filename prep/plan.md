@@ -48,6 +48,8 @@
 
 * 4/29 --> Add color to each section (white and gray pattern). For home section, use color #1, and for footers, use color #4 **(Colors)**. Navbar should use color #5; **keep it simple, for now**.
 
+* 5/2 -->  Create A-Frame scene to display model; **keep it simple, for now**.
+
 ---
 
 #### Beyond MVP
