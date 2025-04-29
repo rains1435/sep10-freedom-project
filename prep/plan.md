@@ -46,7 +46,7 @@
 
 * 4/28 --> Design each section except for home and contact **(USING LAYOUTS)**; ignore minor issues. If there's time, add in all the FP content. Create A-Frame scene to display model; **keep it simple, for now**.
 
-* 4/29 --> Design the home and contact section; ignore minor issues.Add color to each section (white and gray pattern). For home section, use color #1, and for footers, use color #4 **(Colors)**. Navbar should use color #5; **keep it simple, for now**.
+* 4/29 --> Design the home and contact section; ignore minor issues.Add color to each section (white and gray pattern). For home section, use color #1, and for footers, use color #4 **(Colors)**. Navbar should use color #5; **keep it simple, for now**. Make Navbar fixed.
 
 * 5/2 -->  Create A-Frame scene to display model; **keep it simple, for now**.
 
