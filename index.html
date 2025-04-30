@@ -16,7 +16,7 @@
     </head>
     <body>
         <!-- HTML -->
-    <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <nav class="navbar navbar-expand-lg fixed-top">
         <div class="container-fluid">
             <a class="navbar-brand" href="#home">
                 <img src="images/logo.png" alt="Logo" height="25" width="25" class="d-inline-block align-text-top" style="border-radius: 4px;">
@@ -28,7 +28,7 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#home">Home</a>
+                <a class="nav-link" aria-current="page" href="#home">Home</a>
                 </li>
                 <li class="nav-item">
                 <a class="nav-link" href="#about">About</a>
@@ -46,22 +46,34 @@
             </div>
         </div>
     </nav>
-    <div id="home">
+    <header class= "container-fluid home-section" id="home">
         <!-- THIS IS WHAT THE USER SEES FIRST SECTION -->
+        <div class="container">
+            <h1 class="d-flex justify-content-center text-white resp-title">Personal Finance</h1>
+            <p class="text-center d-flex justify-content-center text-white resp-desc">Ignorance is bliss or is it not? Your Journey Begins...</p>
+            <div class="d-flex justify-content-center">
+            <a href="#about" class="btn btn-light btn-lg mt-3">Learn More</a>
+        </div>
+    </header>
     </div>
-    <div class="container" id="about">
-        <!-- THE PROBLEM SECTION -->
-        <div class="row">
-            <div class= "col-lg-6 col-md-12">
-                <h2 class="text-center display-3">PROBLEM</h2>
-                <p class="text-center">Financing is needed in many businesses and has helped businesses manage their money. However, there are people in the world that struggle personally and specifically with their own personal financial life. For example, the ignorance of budgetting: one might not know how to manage their money effectively and occasionally this would lead to overspending on unnecessary things. This is mostly seen with teenagers who aren't at a certain age where personal finance is essential. Nevertheless, personal finance is essential during adulthood so learning the basics early on can be beneficial for developing teenagers. Most importantly, there has been important softwares and hardwares that has recently appeared in the scene of personal financing that might help combat the problem of personal finance ignorance among people, especially teenagers.</p>
-            </div>
-            <div class= "col-lg-6 col-md-12">
-                <h2 class="text-center display-3">DID YOU KNOW...</h2>
-                <p class="text-center" style="font-size: 2em; font-weight: 300;">Based on Rain's Survey, every 1 in 7 teenager are knowledgable about budgetting or anything about personal financing in Sunset Park</p>
+    <div class="container-fluid about-section">
+    <br id="about">
+    <br>
+        <div class="container">
+            <!-- THE PROBLEM SECTION -->
+            <div class="row">
+                <div class= "col-lg-6 col-md-12">
+                    <h2 class="text-center display-3">PROBLEM</h2>
+                    <p class="text-center">Financing is needed in many businesses and has helped businesses manage their money. However, there are people in the world that struggle personally and specifically with their own personal financial life. For example, the ignorance of budgetting: one might not know how to manage their money effectively and occasionally this would lead to overspending on unnecessary things. This is mostly seen with teenagers who aren't at a certain age where personal finance is essential. Nevertheless, personal finance is essential during adulthood so learning the basics early on can be beneficial for developing teenagers. Most importantly, there has been important softwares and hardwares that has recently appeared in the scene of personal financing that might help combat the problem of personal finance ignorance among people, especially teenagers.</p>
+                </div>
+                <div class= "col-lg-6 col-md-12">
+                    <h2 class="text-center display-3">DID YOU KNOW...</h2>
+                    <p class="text-center" style="font-size: 2em; font-weight: 300;">Based on Rain's Survey, every 1 in 7 teenager are knowledgable about budgetting or anything about personal financing in Sunset Park</p>
+                </div>
             </div>
         </div>
     </div>
+
     <br>
     <br>
     <br>
@@ -154,6 +166,7 @@
             </div>
         </div>
     </div>
+
     <div class="d-flex justify-content-end">
         <a class="btn btn-primary" href="index_2.html" role="button">Next Page</a>
     </div>

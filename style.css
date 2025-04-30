@@ -1,5 +1,5 @@
 footer {
-    background-color: #000000;
+    background-color: #041704;
     padding: 20px;
 }
 .ex-spacing {
@@ -17,4 +17,90 @@ footer {
 
 .spacing-bottom h3 {
     margin-bottom: 1.2em;
+}
+
+.about-section {
+    background-color: #c9c9c9;
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+
+.home-section {
+    background-color: #165226;
+    padding: 16em;
+}
+
+
+.home-section h1
+.home-section p{
+    color: white;
+}
+/* This is for the home section; title */
+.resp-title {
+    font-size: 2rem;
+    white-space: nowrap;
+}
+
+@media (min-width: 576px) {
+    .resp-title {
+        font-size: 3rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .resp-title {
+        font-size: 4rem;
+    }
+}
+
+@media (min-width: 992px) {
+    .resp-title {
+        font-size: 5rem;
+    }
+
+}
+/* This is for the HOME section; description */
+.resp-desc {
+    white-space: nowrap;
+    font-size: 1rem;
+    max-width: 100vw;
+}
+
+@media (min-width: 576px) {
+    .resp-desc {
+        font-size: 1.25rem;
+    }
+}
+
+@media (min-width: 768px) {
+    .resp-desc {
+        font-size: 1.5rem;
+    }
+}
+
+@media (min-width: 992px) {
+    .resp-desc {
+        font-size: 1.75rem;
+    }
+}
+
+nav {
+    background-color: #000000;
+}
+
+nav .container-fluid a {
+    color: white;
+}
+
+.nav-link {
+    color: white;
+}
+
+.nav-link:hover {
+    color: #d6d6d6;
+}
+
+nav .container-fluid .navbar-brand:hover {
+    color: #ffffff;
 }
