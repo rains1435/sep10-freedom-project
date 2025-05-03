@@ -104,3 +104,30 @@ nav .container-fluid a {
 nav .container-fluid .navbar-brand:hover {
     color: #ffffff;
 }
+
+.navbar .dropdown-toggle {
+    color: #ffffff;
+}
+
+.navbar .dropdown-toggle:hover {
+    color: #d6d6d6;
+}
+
+.dropdown-menu .dropdown-item {
+    color: #000000;
+}
+
+.dropdown-menu .dropdown-item:hover {
+    color: #333333;
+}
+
+.col-lg-4 input,
+.col-lg-4 textarea {
+    margin-bottom: 1em;
+}
+
+.gray-bg {
+    background-color: #c9c9c9;
+    margin-bottom: 1.2em;
+    padding: 2em;
+}
