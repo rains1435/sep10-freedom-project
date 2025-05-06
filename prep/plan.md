@@ -67,15 +67,15 @@
 
 
 
-<!-- DO NOT USE THIS YET
+
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|   |   |
+| Abdelrahman | I really like how you added a survey there. Website wise, I like the seperation of parts by color, and I like your images for the future part. | I have two idea that you might want to implement; making the navbar have buttons, making the 'next page' button more obvious. You could knock two birds with one stone and make the pages on the navbar. 
 |   |   |
 |   |   |
 |   |   |
 |   |   |
 |   |   |
 
--->
+
