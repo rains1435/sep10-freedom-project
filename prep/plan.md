@@ -59,6 +59,11 @@
 * Add scrollspy component on Navbar.
 * Improve spacing, part alignments **(flex)**, and add fonts. For example, the Navbar needs spacing between logo + name and the links **(shown in the wireframe for desktop)**
 * Expand the A-Frame display; add something extra that would make the final presentation much more better for the audience. **Implement some JavaScript?**
+#### Beyond MVP from in-class Feedbacks
+* Design the Navbar more **(Nav-link should look like buttons; probably something to do with scrollspy; highlights the nav-link based on the section it is linked to).**
+* Embed A-Frame scene onto the website instead of linking it separately
+* Add spacing for overlapping words on images, **usually in the info sections.**
+* Revamping the color for some of the sections. Make it look simple yet consistent.
 
 
 
@@ -71,10 +76,10 @@
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-| Abdelrahman | I really like how you added a survey there. Website wise, I like the seperation of parts by color, and I like your images for the future part. | I have two idea that you might want to implement; making the navbar have buttons, making the 'next page' button more obvious. You could knock two birds with one stone and make the pages on the navbar. 
+| Abdelrahman | I really like how you added a survey there. Website wise, I like the seperation of parts by color, and I like your images for the future part. | I have two idea that you might want to implement; making the navbar have buttons, making the 'next page' button more obvious. You could knock two birds with one stone and make the pages on the navbar.
 | Derek | I like the 3d design of DroidNosMoney, it looks very similar | I recommend that you make round edges on the 3d model and try to embed the 3d model instead of it being a link. |
-| Darren  | Your website looks neat and organized with cool ideas such as DroidNosMoney.  | On larger screens some of yourtext overlaps with the images it is  next  to. To fix this try and add some padding.
-| Farzona  | What I really liked from your project was that you included a survey to get people's feedback or any questions that people could've had.  | One thing you should probably consider is adding more color to your project because it could make it look better and stand out more. Also you should consider spacing out the icons/images from the text because some are overlapping and it's making it hard to read it. 
+| Darren  | Your website looks neat and organized with cool ideas such as DroidNosMoney.  | On larger screens some of your text overlaps with the images it is  next  to. To fix this try and add some padding.
+| Farzona  | What I really liked from your project was that you included a survey to get people's feedback or any questions that people could've had.  | One thing you should probably consider is adding more color to your project because it could make it look better and stand out more. Also you should consider spacing out the icons/images from the text because some are overlapping and it's making it hard to read it.
 |   |   |
 |   |   |
 |   |   |
