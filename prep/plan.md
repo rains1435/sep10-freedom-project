@@ -74,7 +74,7 @@
 | Abdelrahman | I really like how you added a survey there. Website wise, I like the seperation of parts by color, and I like your images for the future part. | I have two idea that you might want to implement; making the navbar have buttons, making the 'next page' button more obvious. You could knock two birds with one stone and make the pages on the navbar. 
 | Derek | I like the 3d design of DroidNosMoney, it looks very similar | I recommend that you make round edges on the 3d model and try to embed the 3d model instead of it being a link. |
 | Darren  | Your website looks neat and organized with cool ideas such as DroidNosMoney.  | On larger screens some of yourtext overlaps with the images it is  next  to. To fix this try and add some padding.
-| Farzona  | What I really liked from your project was that you included a survey to get people's feedback or any questions that people could've had.  | One thing tyou shoudl probably consider is adding more color to your project becasue it could make it look better and stand out more. Also you should consider spacing out the icons/images from the test becasue some are overlapping and it's making it hard to read it. 
+| Farzona  | What I really liked from your project was that you included a survey to get people's feedback or any questions that people could've had.  | One thing tyou should probably consider is adding more color to your project becasue it could make it look better and stand out more. Also you should consider spacing out the icons/images from the test becasue some are overlapping and it's making it hard to read it. 
 |   |   |
 |   |   |
 |   |   |
