@@ -89,19 +89,19 @@ nav {
     background-color: #000000;
 }
 
-nav .container-fluid a {
+nav .container a {
     color: white;
 }
 
 .nav-link {
-    color: white;
+    color: black;
 }
 
 .nav-link:hover {
     color: #d6d6d6;
 }
 
-nav .container-fluid .navbar-brand:hover {
+nav .container .navbar-brand:hover {
     color: #ffffff;
 }
 
@@ -130,4 +130,10 @@ nav .container-fluid .navbar-brand:hover {
     background-color: #c9c9c9;
     margin-bottom: 1.2em;
     padding: 2em;
+}
+
+.form-control {
+    border-style: solid;
+    border-color: #7d7d7d;
+    border-width: 2px;
 }
