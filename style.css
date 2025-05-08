@@ -6,6 +6,10 @@ footer {
     margin-bottom: 10em;
 }
 
+p {
+    font-family: Varela Round;
+}
+
 .ex-title-spacing {
     margin-bottom: 2.4em;
 }
