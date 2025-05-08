@@ -9,7 +9,6 @@
 ## Bootstrap
 #### Components and Layouts
 * Navbar
-* Scrollspy
 * Dropdowns
 * Buttons
 * Grid System
@@ -56,14 +55,14 @@
 
 #### Beyond MVP
 
-* Add scrollspy component on Navbar.
-* Improve spacing, part alignments **(flex)**, and add fonts. For example, the Navbar needs spacing between logo + name and the links **(shown in the wireframe for desktop)**
-* Expand the A-Frame display; add something extra that would make the final presentation much more better for the audience. **Implement some JavaScript?**
-#### Beyond MVP from in-class Feedbacks
-* Design the Navbar more **(Nav-link should look like buttons; probably something to do with scrollspy; highlights the nav-link based on the section it is linked to).**
-* Embed A-Frame scene onto the website instead of linking it separately
-* Add spacing for overlapping words on images, **usually in the info sections.**
-* Revamping the color for some of the sections. Make it look simple yet consistent.
+* [] Improve spacing, part alignments **(flex)**, and add fonts.
+  * [] Add spacing for overlapping words on images, **usually in the info sections.**
+  * [x] For example, the Navbar needs spacing between logo + name and the links **(shown in the wireframe for desktop).**
+* [x] Embed A-Frame scene onto the website instead of linking it separately.
+* [x] Adding floating forms to contact text boxes (make floating form the parent of each label/ textareas; should be at least 3 `form-floating`).
+* [] Expand the A-Frame display; add something extra that would make the final presentation much more better for the audience. **Implement some JavaScript?**
+* [] Add some icons.
+* [] Revamping the color for some of the sections. Make it look simple yet consistent.
 
 
 
