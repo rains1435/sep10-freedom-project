@@ -60,6 +60,8 @@
   * [x] For example, the Navbar needs spacing between logo + name and the links **(shown in the wireframe for desktop).**
 * [x] Embed A-Frame scene onto the website instead of linking it separately.
 * [x] Adding floating forms to contact text boxes (make floating form the parent of each label/ textareas; should be at least 3 `form-floating`).
+* [] Make the navbar the a slightly different green color of the menu or the frontpage.
+* [] Add a faint shadow on the bottom of the navbar to create an cool effect.
 
 
 
