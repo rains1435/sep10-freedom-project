@@ -70,6 +70,7 @@ This is my favorite section because it looks satisfyingly simple, especially the
 
 ### Information-Packed Sections
 ![info](b-images/info-packed.png)
+
 I kept it with a simple and organized order for the information-packed sections: **The Left and Right Format**.
 
 **I used alot of `col` and `order` bootstrap classes to organize it like this but it's easier than it seems, just a lot of copy and pasting and editing.**
