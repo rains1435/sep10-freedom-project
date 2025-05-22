@@ -12,12 +12,14 @@
   * Show A-Frame.
 
 ## Process
+* **Newest Addition:** Most of the slides should have animation.
 * **IMPORTANT:** Throughout the presentation, add little parts of your story, not related to the code but the overall theme: **Personal Finance.**
 * For the first part of me telling a story for context, create a slide **(WITH ANIMATION POPOUT EACH CLICK)** showing a simple cartoonish version of me and the story.
 * For showing the important parts **(Each is one slide)**
-  * The Navbar = **Give context of what a navbar is** + **Explain its importance** + **Show full code and explain some of the code; important ones.**
-  * Information section (Show part of a section; 2 image) = **Describe what these sections are showing; Talk about its format and its contents** + **Show code FOR THOSE 2 SECTION and explain it via contrast; one has no `order` class, one has; Don't only explain `order` class, expand instead.**
-  * For A-Frame (Show image of the A-Frame Scene) = **Brief explanation of this hardware; Summary, Purpose/ tie it back to personal finance** + **Briefly describe what you used to build this (e.g., Built by A-Frame, used only 2 shapes: box and circle etc)** (This will be shown during the end of the presentation).
+  * ~~The Navbar = **Give context of what a navbar is** + **Explain its importance** + **Show full code and explain some of the code; important ones.**~~
+  * ~~Information section (Show part of a section; 2 image) = **Describe what these sections are showing; Talk about its format and its contents** + **Show code FOR THOSE 2 SECTION and explain it via contrast; one has no `order` class, one has; Don't only explain `order` class, expand instead.**~~
+    * Problem and Solution slide (one slide; show one part of a information section) = **Show relevant images of part of webpage and some code** + **Introduce problem** + **Explain how you solved it, assisted by images**.
+  * For A-Frame (Show image of the A-Frame Scene) = **Brief explanation of this hardware; Summary, Purpose/ tie it back to personal finance** + **Briefly describe what you used to build this (e.g., Built by A-Frame, used only 2 shapes: box and circle etc)** + **Show code (NEWEST ADDITION)** ~~(This will be shown during the end of the presentation).~~
 
 
 ## Conclusion
